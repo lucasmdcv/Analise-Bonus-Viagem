@@ -7,3 +7,6 @@ Código criado em python ,
 
 
 aprendi acompanhando uma live do youtube e alguns vídeos como a maioria dos meu repositórios
+
+
+![Screenshot_10](https://user-images.githubusercontent.com/111598752/189536259-5d796adc-8621-48db-904b-24c888f89e74.png)
